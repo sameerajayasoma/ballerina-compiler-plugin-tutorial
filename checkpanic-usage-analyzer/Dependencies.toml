@@ -1,0 +1,6 @@
+[[dependency]]
+org = "ballerina"
+name = "observe"
+version = "0.9.0"
+
+

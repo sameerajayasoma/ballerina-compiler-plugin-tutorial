@@ -1,0 +1,6 @@
+[plugin]
+id = "samjs-checkpanic-usage-analyzer"
+class = "io.samjs.plugins.checkpanic.CheckPanicCompilerPlugin"
+
+[[dependency]]
+path = "../checkpanic-usage-analyzer-javalib/checkpanic-compiler-plugin/build/libs/checkpanic-compiler-plugin-1.0.0.jar"
