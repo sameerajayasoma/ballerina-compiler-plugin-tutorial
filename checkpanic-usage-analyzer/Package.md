@@ -30,7 +30,7 @@ function connect(string host, int port) returns error? {
 
 Here is the `bal build` output:
 ```
-→ bal build
+> bal build
 
 Compiling source
 	sameera/myapp:0.1.0
